@@ -7,6 +7,9 @@
 - `originals/`：题目 PDF 和官方原始模板 ZIP。
 - `work/`：解压后供你编辑的模板文件。Python 题目的 `tests.py` 是官方提供的样例测试。
 - `solutions/`：官方参考答案 PDF；建议独立完成后再查看。
+- `problem-session/`：对应的 Problem Session 练习题和官方解答。Session 1–9 分别放在 `ps0`–`ps8`；这些练习与作业是不同的材料。
+
+Problem Session 资料来自 MIT OpenCourseWare 的 [Practice Problems](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/practice-problems/) 页面。例如，Stone Searching 在 `ps1/problem-session/session2-questions.pdf` 中。
 
 官方原始 ZIP 保留完整内容；`work/` 排除了 macOS 元数据和临时文件。PS8 没有编程部分，模板只包含 LaTeX 文件。
 
