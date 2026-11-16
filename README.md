@@ -11,6 +11,8 @@
 
 Problem Session 资料来自 MIT OpenCourseWare 的 [Practice Problems](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/practice-problems/) 页面。例如，Stone Searching 在 `ps1/problem-session/session2-questions.pdf` 中。
 
+`quiz1`–`quiz3` 分别包含考试题与考前 Review：`originals/` 存放题目，`solutions/` 存放官方解答。资料来自 MIT OpenCourseWare 的 [Quizzes](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/quizzes/) 页面。
+
 官方原始 ZIP 保留完整内容；`work/` 排除了 macOS 元数据和临时文件。PS8 没有编程部分，模板只包含 LaTeX 文件。
 
 | 作业 | 编程文件 | 说明 |
